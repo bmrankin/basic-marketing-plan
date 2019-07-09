@@ -94,8 +94,14 @@
         </div>
       </section>
     </section>
-    <section class="flex bg-red-800 p-6">
-      Copyright 2019 <a href="https://github.com/bmrankin" target="_blank">Bryan Rankin</a>
+    <section class="no-print flex bg-red-800 p-6">
+      <div class="w-1/2 text-white text-sm">
+        Copyright 2019 <a href="https://bryanrankin.com" class="text-white underline" target="_blank">Bryan Rankin</a>
+      </div>
+      <div class="w-1/2">
+        <a class="mx-1 text-white bg-red-700 px-2 py-1 rounded" href="https://twitter.com/bmrankin" target="_blank">Twitter</a>
+        <a class="mx-1 text-white bg-red-700 px-2 py-1 rounded" href="https://github.com/bmrankin/basic-marketing-plan" target="_blank">Github</a>
+      </div>
     </section>
    </section>
 </template>
