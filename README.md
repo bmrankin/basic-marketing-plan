@@ -1,4 +1,10 @@
 # basic-marketing-plan
+Can be used for planning simple banner ad to simple email. Leave blank and print for handwriting or fill in blanks and print.
+
+## TODO: 
+
+- Add Anonymous save and short url
+
 
 ## Project setup
 ```
